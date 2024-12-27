@@ -46,6 +46,41 @@ Backend: Currently under development and will be integrated soon.
 
 
 ---
+# Setup and Installation
+
+1. Clone the repository:
+
+git clone https://github.com/Utkarshsng/Unified-Healthcare-Interface-.git
+
+
+2. Navigate to the project directory:
+
+cd Unified-Healthcare-Interface-
+
+
+3. Install dependencies:
+
+npm install
+
+
+4. Start the development server:
+
+npm start
+
+
+
+
+---
+
+# Usage
+
+Patients: Log in to access, share, or revoke access to your medical records.
+
+Healthcare Providers: Securely view medical data shared by patients.
+
+
+
+---
 # License
 
 This project is licensed under the MIT License.
