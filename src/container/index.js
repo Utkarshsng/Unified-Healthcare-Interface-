@@ -1,0 +1,7 @@
+export { default as Features} from './features/Features'
+export { default as Footer} from './footer/Footer'
+export { default as Header} from './header/Header'
+export { default as Possibility} from './possibility/Possibility'
+export { default as WhatUHI} from './whatUHI/WhatUHI'
+export { default as Patient} from './patients/Patients'
+export {default as Contact} from './contact/Contact'
