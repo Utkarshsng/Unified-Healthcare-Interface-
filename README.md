@@ -7,7 +7,7 @@ A secure and decentralized healthcare platform that leverages blockchain technol
 
 ---
 
-Features
+# Features
 
 Secure Data Storage: Ensures tamper-proof and transparent medical record storage using blockchain.
 
@@ -23,7 +23,7 @@ Privacy and Transparency: Safeguards sensitive healthcare information, enhancing
 
 ---
 
-Tech Stack
+# Tech Stack
 
 Frontend: React
 
@@ -37,7 +37,7 @@ Storage: Blockchain ledger
 
 ---
 
-Project Status
+# Project Status
 
 Frontend: Fully implemented and deployed.
 
@@ -46,7 +46,7 @@ Backend: Currently under development and will be integrated soon.
 
 
 ---
-License
+# License
 
 This project is licensed under the MIT License.
 
